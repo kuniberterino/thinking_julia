@@ -1,0 +1,7 @@
+name = "think_julia"
+uuid = "1a031dd5-9be9-4401-9156-22866248ae52"
+authors = ["Felix Reuß <reussf@gmail.com>"]
+version = "0.0.1"
+
+[deps]
+ThinkJulia = "d92244c1-9090-5a36-a620-f6fb516cc00e"
