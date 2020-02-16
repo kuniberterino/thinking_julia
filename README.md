@@ -1,6 +1,6 @@
 # Thinking Julia
 
-this is playground for me reading along the book [think julia]](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html) book
+this is playground for me reading along the book [think julia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html) book
 
 Best regards
 Kuniberterino
