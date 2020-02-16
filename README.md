@@ -1,11 +1,13 @@
-# think julia
+# Thinking Julia
 
-playground for how to think like a computer scientist for julia
+this is playground for me reading along the book [think julia]](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html) book
 
-with this i reference [this](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html) book
+Best regards
+Kuniberterino
+
 
 | Chapter | Done |
----
+| --- | --- |
 | 1 | Done |
 | 2 | Done |
 | 3 | Done |
